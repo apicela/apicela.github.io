@@ -1,5 +1,6 @@
 html {
     background-color: rgba(219, 219, 219, 0.795);
+
 }
 
 body{}
@@ -16,7 +17,7 @@ body{}
     margin-left: 15%;
     width:15%;
     height:auto;
-    background-color: #1d1d1d;
+    background-color: #1d1d1df1;
     align-items: center;
     box-shadow: 0 0px 3px 0 rgb(8, 8, 8);
 }
@@ -32,7 +33,7 @@ body{}
 #me {
     border-radius: 80%;
     max-width: 180px;
-    border: 1px solid  #1d1d1d;
+    border: 1px solid  #1f1e1e;
     margin-left: 2%;
     margin-top: 5%;
 
