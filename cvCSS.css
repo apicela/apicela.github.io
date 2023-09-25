@@ -1,5 +1,5 @@
 html {
-    background-color: rgba(219, 219, 219, 0.795);
+    background-color: rgba(255, 255, 255, 0.795);
 
 }
 
@@ -10,16 +10,18 @@ body{}
     display: flex;
 
 }
-
+/* black = #1d1d1df1
+azul legal = bdc7f3
+ */
 .blueBackground{
     display: block;
     min-width: 190px; 
     margin-left: 15%;
     width:15%;
     height:auto;
-    background-color: #1d1d1df1;
+    background-color: #272727f1;
     align-items: center;
-    box-shadow: 0 0px 3px 0 rgb(8, 8, 8);
+    box-shadow: 0 -0.5px 3px 0 #0e0d0d;
 }
 
 .fundo{
@@ -27,22 +29,28 @@ body{}
     height:auto;
     margin-right: 15%;
     background-color: rgba(255, 252, 252, 0.795);
-    box-shadow: 0 0px 3px 0 rgb(0, 0, 0);
+    box-shadow: 0 0px 3px 0 #474747;
 }
 
+#imagem{
+    text-align: center;
+}
 #me {
+    background-color: #242323;
     border-radius: 80%;
-    max-width: 180px;
-    border: 1px solid  #1f1e1e;
-    margin-left: 2%;
-    margin-top: 5%;
+    max-width: 160px;
+    border: 1px solid  #242424f1;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-left: 2%;
+    margin-top: 5%; */
 
 }
 
 .nameID{
     font-family: 'Space Grotesk', sans-serif;
     font: bold;
-    font-size:17px; 
+    font-size:19px; 
     margin-top:-10px;
     margin-bottom:0px;
     text-align:center;
@@ -72,6 +80,8 @@ body{}
     font-family: 'Space Grotesk', sans-serif;
     margin-left: 25px;
     margin-right: 25px;
+    font-weight: bold;
+
     font-size:16px; 
     color:rgb(0, 0, 0);
 }
