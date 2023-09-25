@@ -19,7 +19,7 @@ azul legal = bdc7f3
     margin-left: 15%;
     width:15%;
     height:auto;
-    background-color: #272727f1;
+    background-color: #424242f1;
     align-items: center;
     box-shadow: 0 -0.5px 3px 0 #0e0d0d;
 }
@@ -36,10 +36,11 @@ azul legal = bdc7f3
     text-align: center;
 }
 #me {
-    background-color: #242323;
-    border-radius: 80%;
-    max-width: 160px;
-    border: 1px solid  #242424f1;
+    /* background-color: rgb(54, 54, 54); */
+    margin-top: 5%;
+    border-radius: 40%;
+    max-width: 85px;
+    /* border: 1px solid  #242424f1; */
     margin-left: auto;
     margin-right: auto;
     /* margin-left: 2%;
@@ -49,12 +50,16 @@ azul legal = bdc7f3
 
 .nameID{
     font-family: 'Space Grotesk', sans-serif;
-    font: bold;
-    font-size:19px; 
+    font-size:21px; 
+    font-weight: 500;
     margin-top:-10px;
     margin-bottom:0px;
     text-align:center;
-    color:rgb(255, 255, 255);
+    color:#ffffff;
+    color:rgb(175, 207, 255);
+
+    /* color:rgb(175, 207, 255); */
+
 
 }
 
@@ -62,7 +67,7 @@ azul legal = bdc7f3
     border-bottom:1px solid;
     font-family: "Courier";
     font-size:12px; 
-    color:white;
+    color:rgba(215, 224, 233, 0.959);
     text-align: center;
 
 }
@@ -115,14 +120,18 @@ azul legal = bdc7f3
 }
 
 
-.social{
-
+.social, .contatos{
+    /* font-weight:bold; */
   margin-top:-6px;
     font-family: 'Space Grotesk', sans-serif;
     font-size:20px; 
-    color:white;
+    color:rgb(175, 207, 255);
     text-align: center;
-    margin-bottom:-6px;
+    margin-bottom:-10px;
+}
+
+.contatos{
+    padding-bottom: 9px;
 }
 
 .fa-compass,.fa-phone,.fa-envelope{
@@ -131,6 +140,11 @@ azul legal = bdc7f3
     align-items: center;
     margin-left: 4px;
     color:rgb(255, 255, 255);
+}
+
+.fa-compass{
+    margin-top: 5%;
+
 }
 
 .fa-brands{
@@ -150,9 +164,12 @@ azul legal = bdc7f3
 }
 
   .info-linguagens {
+    font-weight: 540;
     font-family: "Courier";
-    font-size:12.5px; 
+    font-size:13px; 
     color:white;
+    /* padding: 1px; */
+    font-style: italic;
 
 }
 
