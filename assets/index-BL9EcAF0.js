@@ -46,7 +46,7 @@ Na LEVTY, desempenho soluções de automatização de processos, atuando com CRM
 },{
     "title" : "Top Movies",
     "description": "Desenvolvimento de site de busca de filmes e séries. O site oferece recursos para busca dos melhores e mais populares filmes, além de um design atraente e intuitivo, sendo capaz de realizar filtros por plataforma de streaming, gênero, etc. Para realizar estas buscas, foi consumida a API fornecida por The Movie Database (TMDB).",
-    "url" : "https://topmoviesapicela.netlify.app/",
+    "url" : "https://apicela.github.io/topMovies",
     "img": "/movies.png",
     "stacks": ["Vue.js", "HTML5"],
     "stacks_icons": ["/icons/vue.svg", "/icons/html5.svg"]
