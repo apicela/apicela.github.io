@@ -19,7 +19,7 @@
     "title": "Trainee Engenheiro de Software",
     "icon": "/levty-logo.svg",
 	"startDate": "12/2023",
-	"endDate": "até o momento",
+	"endDate": "10/2024",
 	"description": ["Atuação direta com o cliente propondo soluções utilizando JavaScript para diversos temas, tais como: CRM, RH, Billing e Financeiro.",
     "Automação de processos e integração com APIs externas. (Slack, Google, etc.)"]
 },
