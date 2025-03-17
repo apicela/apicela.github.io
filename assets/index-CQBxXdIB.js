@@ -18,7 +18,7 @@
 	"name": "EVOLUA Energia",
     "title": "Desenvolvedor de Software",
     "icon": "/evolua-logo.png",
-	"startDate": "11/2023",
+	"startDate": "12/2023",
 	"endDate": "Atual",
 	"description": ["Reestruturação completa das APIs da esteira de vendas, utilizando C# e .Net, integrando com Salesforce para sincronização de dados e automação de processos.",
     "Manutenção de sistemas legados em Java, visando boas práticas RESTful"]
