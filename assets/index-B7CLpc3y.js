@@ -72,7 +72,7 @@
     "title": "APICrypto",
     "description": "API Restful assíncrona de monitoramento de criptomoedas que permite que usuários cadastrem alertas personalizados para serem notificados por e-mail quando determinada moeda atingir um preço específico, otimizando o uso de recursos com a implementação de caches.",
        "url": "https://github.com/apicela/APICrypto",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CoinGecko_logo.png",
+    "img": "https://brandlogos.net/wp-content/uploads/2022/04/coingecko-logo-brandlogos.net_.png",
     "stacks": ["Java", "SpringBoot", "PostgreSQL", "Docker"],
     "stacks_icons": ["/icons/java.svg", "/icons/spring.svg", "/icons/sql.svg", "/icons/docker.svg"]
 },
